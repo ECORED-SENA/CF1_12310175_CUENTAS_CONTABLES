@@ -56,7 +56,7 @@
                 TarjetaAudio.color-acento-contenido.bg-color-white.mb-3(
                   texto="El ritmo de la cuenta T: Débitos, créditos y saldos"
                   tiempo
-                  :audio="require('../assets/curso/podcast/podcast1.mp3')"
+                  :audio="require('../assets/curso/podcast/cuentas_contables.mp3')"
                 )
     
     p.mb-5 A continuación, estudiaremos el registro en la cuenta T. 

@@ -20,7 +20,7 @@
         separador
         
         #t_3_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-          h2 3.1 Estructura del <b>PUC</b> 
+          h2 3.1 Estructura del PUC
         
         p.mb-5 Actualmente existen catorce planes únicos de cuentas los cuales son:
 
